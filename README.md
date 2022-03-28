@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w1nted
 - 👀 I’m interested in Web and game development.
-- 🌱 I’m currently learning C# / HTML/CSS/JS / .LUA
+- 🌱 I’m currently learning C# / HTML/ CSS / JS / .LUA
 - 📫 How to reach me ...
 
 <!---
